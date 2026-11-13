@@ -138,6 +138,6 @@ Another challenge was making sure the application worked after making changes. I
 
 ## Project Link
 
-[Open ArchDesign Studio](https://humble-space-barnacle-9qjq4qjx646f6g-8080.app.github.dev/)
+[Open ArchDesign Studio](https://github.com/rahafahejazi/ArchDesign_Studio/blob/main/ArchDesignStudio.java)
 
 ---
